@@ -9,3 +9,4 @@ Electron app that turns haunt.gg (dashboard) into an electron app
   <br><br>
   <img width="1106" height="691" alt="image" src="https://github.com/user-attachments/assets/c3262cca-5c97-4365-88e2-14469cdf0ab4" />
 </details>
+<br>if you want linux support, make it yourself loser

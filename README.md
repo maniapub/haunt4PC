@@ -1,6 +1,6 @@
 # haunt4PC
 Electron app that turns haunt.gg (dashboard) into an electron app
-<br>to download go into either "WINDOWS" or "MAC" and download the folder, then (while making sure u have [nodejs](https://nodejs.org) installed) type into either cmd or terminal how ever you call it "npm run build". then enter the "dist" folder and look for either "Haunt Setup 1.0.0.exe" or "Haunt-1.0.0.dmg" depending on what operating system your using and open it. :-)
+<br>to download go into either "WINDOWS" or "MAC" and download the folder, then (while making sure u have [nodejs](https://nodejs.org) installed) type into either cmd or terminal how ever you call it "npm install" then "npm run build". then enter the "dist" folder and look for either "Haunt Setup 1.0.0.exe" or "Haunt-1.0.0.dmg" depending on what operating system your using and open it. :-)
 <details>
   <summary><b>Click here to view images</b></summary>
   <br>
